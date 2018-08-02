@@ -1,0 +1,316 @@
+[
+    {
+        "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 41,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 40,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 179,
+                    "endColumn": 43,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 40,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 41,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 40,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 42,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 40,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 41,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 42,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 39,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 42,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 40,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 41,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 42,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 57,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 55,
+                    "endOffset": 834
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 839,
+                    "endColumn": 52,
+                    "endOffset": 887
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 892,
+                    "endColumn": 51,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 69,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 69,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 52,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 54,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

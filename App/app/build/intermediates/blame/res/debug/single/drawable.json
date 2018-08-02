@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_bg.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\drawable\\splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keys.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\drawable\\keys.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_music_note.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\drawable\\ic_music_note.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_g.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\SpeechAndAudio_With_DSP1\\app\\src\\main\\res\\drawable\\back_g.xml"
+    }
+]

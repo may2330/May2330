@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AndroidStudioProjects\SpeechAndAudio_With_DSP1\app\libs\TarsosDSP-Android-latest-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a5c8119f7c0e35e270a10960c60a27b2c189dfa">
+        <dex dex="C:\Users\user\AndroidStudioProjects\SpeechAndAudio_With_DSP1\app\build\intermediates\pre-dexed\debug\TarsosDSP-Android-latest-bin_1425f9d907921b8dfd256fcdf3bea3f9d794432f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\user\AndroidStudioProjects\SpeechAndAudio_With_DSP1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_3c9634e73870f3270eed8634a922b954d7502e55.jar" />
+    </item>
+
+</items>

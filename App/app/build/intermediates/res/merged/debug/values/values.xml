@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Aqua">#FF00FFFF</color>
+    <color name="Black">#FF000000</color>
+    <color name="Blue">#FF0000FF</color>
+    <color name="Fuchsia">#FFFF00FF</color>
+    <color name="Gray">#FF808080</color>
+    <color name="Green">#FF008000</color>
+    <color name="Lime">#FF00FF00</color>
+    <color name="Maroon">#FF800000</color>
+    <color name="Navy">#FF000080</color>
+    <color name="Olive">#FF808000</color>
+    <color name="Purple">#FF800080</color>
+    <color name="Red">#FFFF0000</color>
+    <color name="Silver">#FFC0C0C0</color>
+    <color name="Teal">#FF008080</color>
+    <color name="White">#FFFFFFFF</color>
+    <color name="Yellow">#FFFFFF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SpeechAndAudio</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="swipe_here">이 공간을 드래그하여 스크롤</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>
